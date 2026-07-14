@@ -2,8 +2,6 @@
 <manifest>
   <remote name="amethyst" fetch="https://github.com/xiaomi-amethyst/" />
 
-  <remove-project path="device/qcom/sepolicy_vndr/sm8650" />
-
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="amethyst"
