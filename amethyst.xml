@@ -29,9 +29,4 @@
            remote="amethyst"
            revision="lineage-23.2-caf-sm8650" />
 
-  <project name="packages_apps_LunarisDolby"
-           path="packages/apps/LunarisDolby"
-           remote="amethyst"
-           revision="lineage-23.2" />
-
 </manifest>
