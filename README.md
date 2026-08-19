@@ -1,6 +1,6 @@
 Clone this repo directly into `.repo/local_manifests` inside your ROM source tree:
 ```bash
-git clone https://github.com/BluedMC-Amethyst/local_manifest-amethyst.git .repo/local_manifests
+git clone https://github.com/xiaomi-amethyst/local_manifest-amethyst.git .repo/local_manifests
 ```
 
 Then sync your repos
