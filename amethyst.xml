@@ -29,14 +29,4 @@
            remote="amethyst"
            revision="lineage-23.2-caf-sm8650" />
 
-  <project name="device_xiaomi_amethyst-miuicamera"
-           path="device/xiaomi/amethyst-miuicamera"
-           remote="amethyst"
-           revision="lineage-23.2" />
-
-  <project name="vendor_xiaomi_amethyst-miuicamera"
-           path="vendor/xiaomi/amethyst-miuicamera"
-           remote="amethyst"
-           revision="lineage-23.2" />
-
 </manifest>
