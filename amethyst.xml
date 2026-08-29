@@ -7,36 +7,36 @@
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
 
   <project name="vendor_xiaomi_amethyst"
            path="vendor/xiaomi/amethyst"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
 
   <project name="device_xiaomi_amethyst-kernel"
            path="device/xiaomi/amethyst-kernel"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
 
   <project name="hardware_xiaomi"
            path="hardware/xiaomi"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
 
   <project name="device_qcom_sepolicy_vndr"
            path="device/qcom/sepolicy_vndr/sm8650"
            remote="amethyst"
-           revision="lineage-23.2-caf-sm8650" />
+           revision="sixteen-sm8650" />
 
   <project name="device_xiaomi_amethyst-miuicamera"
            path="device/xiaomi/amethyst-miuicamera"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
   
   <project name="vendor_xiaomi_amethyst-miuicamera"
            path="vendor/xiaomi/amethyst-miuicamera"
            remote="amethyst"
-           revision="lineage-23.2" />
+           revision="sixteen" />
 
 </manifest>
