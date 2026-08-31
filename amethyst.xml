@@ -7,7 +7,7 @@
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
            remote="amethyst"
-           revision="seventeen" />
+           revision="pixelos-17.0" />
 
   <project name="vendor_xiaomi_amethyst"
            path="vendor/xiaomi/amethyst"
