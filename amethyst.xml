@@ -3,6 +3,16 @@
   <remote name="amethyst" fetch="https://github.com/xiaomi-amethyst/" />
 
   <remove-project path="device/qcom/sepolicy_vndr/sm8650" />
+  <remove-project path="hardware/qcom-caf/msm8996/audio" />
+  <remove-project path="hardware/qcom-caf/msm8996/display" />
+  <remove-project path="hardware/qcom-caf/msm8996/media" />
+  <remove-project path="hardware/qcom-caf/msm8998/audio" />
+  <remove-project path="hardware/qcom-caf/msm8998/display" />
+  <remove-project path="hardware/qcom-caf/msm8998/media" />
+  <remove-project path="hardware/qcom-caf/sdm845/audio" />
+  <remove-project path="hardware/qcom-caf/sdm845/display" />
+  <remove-project path="hardware/qcom-caf/sdm845/media" />
+  <remove-project path="packages/overlays/Lineage/customizations/BlackTheme" />
 
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
