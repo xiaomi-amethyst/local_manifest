@@ -3,7 +3,7 @@
   <remote name="amethyst" fetch="https://github.com/xiaomi-amethyst/" />
 
   <remove-project path="device/qcom/sepolicy_vndr/sm8650" />
-  <remove-project name="LineageOS/android_packages_overlays_Lineage" />
+  <remove-project path="packages/overlays/Lineage" />
   <remove-project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom-caf/msm8996/audio" />
   <remove-project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom-caf/msm8996/display" />
   <remove-project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom-caf/msm8996/media" />
