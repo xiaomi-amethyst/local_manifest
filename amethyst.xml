@@ -3,11 +3,6 @@
   <remote name="amethyst" fetch="https://github.com/xiaomi-amethyst/" />
 
   <remove-project path="device/qcom/sepolicy_vndr/sm8650" />
-  <remove-project name="LineageOS/android_hardware_qcom_audio" />
-  <remove-project name="LineageOS/android_hardware_qcom_display" />
-  <remove-project name="LineageOS/android_hardware_qcom_media" />
-  <remove-project name="LineageOS/android_hardware_qcom_sdm845_display" />
-  <remove-project name="LineageOS/android_hardware_qcom_sdm84_gps" />
 
   <project name="device_xiaomi_amethyst"
            path="device/xiaomi/amethyst"
